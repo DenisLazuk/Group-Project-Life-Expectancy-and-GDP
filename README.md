@@ -10,7 +10,7 @@
 - [x] Import of a dataset
 - [x] Get summary statistics of a dataset
 - [x] Analyze, prepare, and visualize the data in order to answer questions
-- [-] *Optional: Create a Blog Post*
+- [] *Optional: Create a Blog Post*
 
 
 ### Technologies used:
