@@ -46,7 +46,7 @@ matplotlib
 7. The smallest GDP is 4.415703e+09 US dollars.
 
 ## Observations. Part II ##
-![image](figures/Correlation between GDP and life expectancy.jpeg)
+![image](https://github.com/DenisLazuk/Group-Project-Life-Expectancy-and-GDP/tree/main/figures/Correlation between GDP and life expectancy.jpeg)
 1. Based on the plots we see one outlier for life expectancy (Zimbabwe), and the other outlier    for GDP (USA). Median life expectancy is around 77 years. Median GDP is around 200 billion US dollars.
 2. GDP increased over time in all countries.
 3. Life expectancy increased over time in all countries.
